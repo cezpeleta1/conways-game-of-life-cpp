@@ -9,3 +9,4 @@ This project is a C++ terminal simulation of Conway’s Game of Life, written us
 ```bash
 g++ conway.cpp -o conway_game -lncurses
 ./conway_game
+# tic-tac-toe
